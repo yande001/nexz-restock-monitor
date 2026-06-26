@@ -1,0 +1,10 @@
+# Copy this file to `mail.cfg` and fill in your own values.
+# mail.cfg is gitignored so your credentials are never committed.
+#
+# GMAIL_APP_PW is a Google "App Password" (16 chars, spaces removed), NOT your
+# normal Google password. Create one at https://myaccount.google.com/apppasswords
+# (requires 2-Step Verification enabled on the account).
+
+GMAIL_USER=your_address@gmail.com
+GMAIL_APP_PW=your16charapppassword
+MAIL_TO=where_to_notify@example.com

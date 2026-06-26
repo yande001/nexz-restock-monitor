@@ -1,0 +1,10 @@
+# Local credentials — NEVER commit
+mail.cfg
+
+# Runtime logs
+restock.log
+*.log
+
+# Python
+__pycache__/
+*.pyc
